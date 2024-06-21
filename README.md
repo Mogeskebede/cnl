@@ -106,3 +106,8 @@ By following these steps, we can ensure that the capi_drs service runs only in a
 Please let me know if you have any questions or need further details.
 
 Best regards,
+![image](https://github.com/Mogeskebede/cnl/assets/104947695/31e6a4ab-15f2-476c-a845-2c6191152b31)
+![image](https://github.com/Mogeskebede/cnl/assets/104947695/46fe98ca-d37f-42bb-9599-0a21cfbc3328)
+![image](https://github.com/Mogeskebede/cnl/assets/104947695/f4d801d4-1291-4756-bb7b-c945e673a2a3)
+
+
